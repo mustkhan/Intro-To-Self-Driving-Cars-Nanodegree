@@ -12,6 +12,8 @@ I completed the **Intro To Self Driving Cars Nanodegree** by Udacity on May 16th
 
 * The course began with a deep dive into **Bayesian Thinking**. Human drivers observe their environment when driving and make decisions based on the likelihood of events happening. Of course, a driver doesn't actually calculate the probability of a car passing behind another car, however we trust probabilities because it is the only way to take action in the midst of uncertainty. Autonomous systems such as self driving cars make similar decisions based on probabilities, however, instead of intuition and experience self driving cars calculate the probability of events using sensors and programming which reasons out what action to take. The two projects that I completed was the **Joy Ride** project where I had to program the simulation of a car in a drag race, going around a circular track and conducting parallel parking as well as **Programming A Histogram Filter In Python** which is a type of Bayes filter that represents beliefs as a histogram in order to solve a localization problem. 
 
+<img src="https://camo.githubusercontent.com/b2c87c8ccdaa4d8fdeffc588444929cf4b645a73/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f5352526e77535f44342d732f302e6a7067">
+
 ![Image of Mustafa's Joy Ride Project] (https://camo.githubusercontent.com/b2c87c8ccdaa4d8fdeffc588444929cf4b645a73/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f5352526e77535f44342d732f302e6a7067)
 *Joy Ride Project*
 
