@@ -19,7 +19,6 @@ I completed the **Intro To Self Driving Cars Nanodegree** by Udacity on May 16th
 * Next, in **Working with Matrices** the focus was on two tools which are vital to self-driving car engineers: object oriented programming and linear algebra, understood through the completion of the **Implement A Matrix Class** and **Kalman Filter** projects. 
 
    <img src="Images/kalman.png" width="400">
-   Kalman Filter
 
 * The foundations of **C++** were also introduced in the course. This was a first step in a rewarding journey towards C++ expertise. The goal of the **Python to C++** project was translation: get a program written in Python, and translate it into C++. 
 
@@ -27,18 +26,15 @@ I completed the **Intro To Self Driving Cars Nanodegree** by Udacity on May 16th
 
 * **Navigating and Data Structures** really tested and allowed me to work on algorithmic thinking by using data structures and algorithms. Through the **Implementing A Route Planner** project, I implemented an A-Star search algorithm to find the shortest path between a starting node and a destination node on a map.
 
-![Image of Mustafa's Implementing A Route Planner Project](https://drive.google.com/file/d/1tJCF7Laf9JELiKp5p0UoLoDAeBvIYt0L/view?usp=sharing)
-*A* Search*
+<img src="Images/map.png" width="400">
 
 * Next, the course took a look at **Vehicle Motion And Control**, where the use of calculus and trigonometry in self driving cars became apparent. Additionally, there was a lesson on how a self driving car uses various motion sensors to help it understand its own motion. At the end of this section in the **Reconstructing Trajectories Using Sensor Data** project, I used raw sensor data (which gave information about the distance driven, acceleration, and rotation rates of a car) in order to reconstruct a vehicle's trajectory through space.
 
-![Image of Mustafa's Reconstructing Trajectories Using Sensor Data Project](https://drive.google.com/file/d/1DExehz7FAu8PSP11P8zjcszWhyC3MO7u/view?usp=sharing)
-*Reconstructing Trajectories Using Sensor Data*
+<img src="Images/Trajectory.png" width="400">
 
 * Finally, in the **Computer Vision And Machine Learning** section of the course, I learnt how a computer sees an image and how we can use machine learning to teach a computer to identify images programmatically. The final **Traffic Light Classifier** project tested my understanding and skill of these concepts by tasking with me to programatically classify whether a traffic light is red, yellow or green with an incredibly high accuracy of 95-100% (as a driver's life is dependent on such a classification) using computer vision and machine learning.
 
-![Image of Mustafa's Traffic Light Classifier Project](https://drive.google.com/file/d/1dOpadSd6f_2hf0wHPUKTAGNHismqESxB/view?usp=sharing)
-*Traffic Light Classifier*
+<img src="Images/Traffic.png" width="400">
 
 
 The code for the projects can be found in the appropriate subfolders above.  
