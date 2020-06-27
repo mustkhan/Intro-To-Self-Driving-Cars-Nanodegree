@@ -32,7 +32,7 @@ I completed the **Intro To Self Driving Cars Nanodegree** by Udacity on May 16th
 
 <p align="center"><img src="Images/Trajectory.png" width="600"></p>
 
-* Finally, in the **Computer Vision And Machine Learning** section of the course, I learnt how a computer sees an image and how we can use machine learning to teach a computer to identify images programmatically. The final **Traffic Light Classifier** project tested my understanding and skill of these concepts by tasking with me to programatically classify whether a traffic light is red, yellow or green with an incredibly high accuracy of 95-100% (as a driver's life is dependent on such a classification) using computer vision and machine learning.
+* Finally, in the **Computer Vision And Machine Learning** section of the course, I learnt how a computer sees an image and how we can use machine learning to teach a computer to identify images programmatically. The final **Traffic Light Classifier** project tested my understanding and skill of these concepts by tasking me to programatically classify whether a traffic light is red, yellow or green with an incredibly high accuracy of 95-100% (as a driver's life is dependent on such a classification) using computer vision and machine learning.
 
 <p align="center"><img src="Images/Traffic.png" width="400"></p>
 
