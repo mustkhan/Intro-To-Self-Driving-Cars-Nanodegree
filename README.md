@@ -36,6 +36,5 @@ I completed the **Intro To Self Driving Cars Nanodegree** by Udacity on May 16th
 
 <p align="center"><img src="Images/Traffic.png" width="400"></p>
 
-
    The code for the projects can be found in the appropriate subfolders above.  
 
