@@ -20,7 +20,7 @@ I completed the **Intro To Self Driving Cars Nanodegree** by Udacity on May 16th
 
 * Next, in **Working with Matrices** the focus was on two tools which are vital to self-driving car engineers: object oriented programming and linear algebra, understood through the completion of the **Implement A Matrix Class** and **Kalman Filter** projects. 
 
-   <img src="Images/Kalman.png" width="400">
+   <img src="Images/kalman.png" width="400">
    Kalman Filter
 
 * The foundations of **C++** were also introduced in the course. This was a first step in a rewarding journey towards C++ expertise. The goal of the **Python to C++** project was translation: get a program written in Python, and translate it into C++. 
