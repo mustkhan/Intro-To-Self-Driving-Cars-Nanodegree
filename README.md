@@ -13,10 +13,10 @@ I completed the **Intro To Self Driving Cars Nanodegree** by Udacity on May 16th
 * The course began with a deep dive into **Bayesian Thinking**. Human drivers observe their environment when driving and make decisions based on the likelihood of events happening. Of course, a driver doesn't actually calculate the probability of a car passing behind another car, however we trust probabilities because it is the only way to take action in the midst of uncertainty. Autonomous systems such as self driving cars make similar decisions based on probabilities, however, instead of intuition and experience self driving cars calculate the probability of events using sensors and programming which reasons out what action to take. The two projects that I completed was the **Joy Ride** project where I had to program the simulation of a car in a drag race, going around a circular track and conducting parallel parking as well as **Programming A Histogram Filter In Python** which is a type of Bayes filter that represents beliefs as a histogram in order to solve a localization problem.   
      
    <img src="Images/joyride.png" width="250">   
-   **Project Joy Ride**   
+   Project Joy Ride   
 
    <img src="Images/Histogram.png" width="250">     
-   **Programming A Histogram Filter In Python Project**  
+   Histogram Filter Project  
 
 * Next, in **Working with Matrices** the focus was on two tools which are vital to self-driving car engineers: object oriented programming and linear algebra, understood through the completion of the **Implement A Matrix Class** and **Kalman Filter** projects. 
 
