@@ -20,7 +20,7 @@ I completed the **Intro To Self Driving Cars Nanodegree** by Udacity on May 16th
 
    <p align="center"><img src="Images/kalman.png" width="600"></p>
 
-* The foundations of **C++** were also introduced in the course. This was a first step in a rewarding journey towards C++ expertise. The goal of the **Python to C++** project was translation: get a program written in Python, and translate it into C++. 
+* The foundations of **C++** were also introduced in this course. This was a first step in a rewarding journey towards C++ expertise. The goal of the **Python to C++** project was translation: get a program written in Python, and translate it into C++. 
 
 * After this, I focused on **Performance Programming in C++** where the course explored how to write good code that runs correctly and best, industry practices. Through the **Optimizing The Histogram Filter** project, I worked on making the python code I had translated into C++ run faster and more efficiently. 
 
