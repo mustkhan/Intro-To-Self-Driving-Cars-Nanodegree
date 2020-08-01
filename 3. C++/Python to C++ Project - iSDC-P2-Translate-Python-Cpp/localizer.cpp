@@ -1,14 +1,10 @@
 /**
 	localizer.cpp
 
-	Purpose: implements a 2-dimensional histogram filter
+	Goal of this file: implements a 2-dimensional histogram filter
 	for a robot living on a colored cyclical grid by 
 	correctly implementing the "initialize_beliefs", 
 	"sense", and "move" functions.
-
-	This file is incomplete! Your job is to make these
-	functions work. Feel free to look at localizer.py 
-	for working implementations which are written in python.
 */
 
 #include "localizer.h"
